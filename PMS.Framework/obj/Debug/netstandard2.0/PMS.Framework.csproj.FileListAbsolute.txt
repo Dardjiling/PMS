@@ -1,0 +1,8 @@
+D:\Projects\PMS_test\PMS.Framework\bin\Debug\netstandard2.0\PMS.Framework.deps.json
+D:\Projects\PMS_test\PMS.Framework\bin\Debug\netstandard2.0\PMS.Framework.dll
+D:\Projects\PMS_test\PMS.Framework\obj\Debug\netstandard2.0\PMS.Framework.csprojAssemblyReference.cache
+D:\Projects\PMS_test\PMS.Framework\obj\Debug\netstandard2.0\PMS.Framework.AssemblyInfoInputs.cache
+D:\Projects\PMS_test\PMS.Framework\obj\Debug\netstandard2.0\PMS.Framework.AssemblyInfo.cs
+D:\Projects\PMS_test\PMS.Framework\bin\Debug\netstandard2.0\PMS.Framework.pdb
+D:\Projects\PMS_test\PMS.Framework\obj\Debug\netstandard2.0\PMS.Framework.dll
+D:\Projects\PMS_test\PMS.Framework\obj\Debug\netstandard2.0\PMS.Framework.pdb
